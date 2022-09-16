@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<group>
+	<students>
+		<student>
+			<Title>Лада</Title>
+			<Project>Новелла</Project>
+		</student>
+		<student>
+			<Title>Влад</Title>
+			<Project>незаконная штука</Project>
+		</student>
+		<student>
+			<Title>Антонина</Title>
+			<Project>игра</Project>
+		</student>
+		<student>
+			<Title>Ева</Title>
+			<Project>Чат</Project>
+		</student>
+		<student>
+			<Title>Максим</Title>
+			<Project>Почти законная штука</Project>
+		</student>
+		<lector>
+			<Title>Влад</Title>
+			<Project>Перечень</Project>
+		</lector>
+	</students>
+	<Lessons>
+		
+	</Lessons>
+</group>
